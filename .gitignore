@@ -1,0 +1,8 @@
+.venv/
+.vscode/
+1.json
+3.json
+main1.py
+tg_stats.db
+.idea/
+.env
